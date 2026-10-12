@@ -24,8 +24,3 @@ app.UseSwaggerUI();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
-
-
-//TODO:
-//update readme with instructions on api usage
-// add todo validation exception is thrown to return the correct type
